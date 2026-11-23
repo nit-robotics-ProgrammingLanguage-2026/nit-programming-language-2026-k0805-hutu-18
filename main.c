@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-
-#include <stdio.h>
-
 void divmod(int x, int y, int *q, int *r);
 
 void divmod(int x, int y, int *q, int *r)
